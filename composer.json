@@ -1,5 +1,5 @@
 {
-  "name": "twentysixb/coding-standards",
+  "name": "twentysixb/php-coding-standards",
   "description": "26B PHP Coding Standards",
   "type": "phpcodesniffer-standard",
   "license": "GPL-2.0-or-later",
